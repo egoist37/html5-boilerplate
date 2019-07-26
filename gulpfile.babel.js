@@ -17,7 +17,7 @@ import del from 'del';
 import ssri from 'ssri';
 import modernizr from 'modernizr';
 
-import pkg from './package.json';
+import pkg from './b_package.json';
 import modernizrConfig from './modernizr-config.json';
 
 
